@@ -1,0 +1,73 @@
+body {
+  background-color: red;
+  background-image: url("https://ih0.redbubble.net/image.509950424.4974/poster%2C210x230%2Cf8f8f8-pad%2C210x230%2Cf8f8f8.lite-1u2.jpg");
+}
+  font-family: Arial;
+  color:purple,
+  
+}
+
+h2 {
+  text-decoration: underline overline line-through;
+  color: red;
+}
+
+img.face {
+  width: 300px;
+  
+}
+
+
+img.fetus {
+  border-width: thick;
+  border-color: magenta;
+  border-style: solid;
+  width: 1000px;
+  height: 1900px;
+}
+ .box { 
+   width:100px;
+   height:100px;
+ }
+
+.row {
+  height: 100px;
+}
+
+ .red {
+  float:left;
+   background:#f00;
+ }
+.orange {
+  float:left;
+  background:#ffa500
+}
+.yellow {
+  float:left;
+  background:#ffff00
+}
+.green {
+  float:left;
+  background: #008000
+}
+.blue { 
+  float:left;
+  background: #0000FF
+}
+.purple {
+  float:left;
+   background: #800080
+}
+.indigo { 
+  float:left;
+  background: #4B0082
+}
+.pink { 
+  float:left;
+  background: #FFC0CB
+}
+.grey {
+  float:left;
+   background: #808080
+}
+  
