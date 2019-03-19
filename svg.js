@@ -1,6 +1,7 @@
 console.log("loaded svg-demo")
 
-let draw = SVG('drawing').size(480,480);
+const newLocal = SVG('drawing').size(480, 480);
+let draw = newLocal;
 let rectwidth= 200;
 let rectheight= 200;
 let rect = draw.rect (100,100).fill('purple');
